@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://buzina42.github.io/csb-wb6mi/static/css/main.61a5d57c.chunk.css",
+    "main.js": "https://buzina42.github.io/csb-wb6mi/static/js/main.682423df.chunk.js",
+    "main.js.map": "https://buzina42.github.io/csb-wb6mi/static/js/main.682423df.chunk.js.map",
+    "runtime-main.js": "https://buzina42.github.io/csb-wb6mi/static/js/runtime-main.ce083daf.js",
+    "runtime-main.js.map": "https://buzina42.github.io/csb-wb6mi/static/js/runtime-main.ce083daf.js.map",
+    "static/js/2.d630a296.chunk.js": "https://buzina42.github.io/csb-wb6mi/static/js/2.d630a296.chunk.js",
+    "static/js/2.d630a296.chunk.js.map": "https://buzina42.github.io/csb-wb6mi/static/js/2.d630a296.chunk.js.map",
+    "index.html": "https://buzina42.github.io/csb-wb6mi/index.html",
+    "static/css/main.61a5d57c.chunk.css.map": "https://buzina42.github.io/csb-wb6mi/static/css/main.61a5d57c.chunk.css.map",
+    "static/js/2.d630a296.chunk.js.LICENSE.txt": "https://buzina42.github.io/csb-wb6mi/static/js/2.d630a296.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce083daf.js",
+    "static/js/2.d630a296.chunk.js",
+    "static/css/main.61a5d57c.chunk.css",
+    "static/js/main.682423df.chunk.js"
+  ]
+}
