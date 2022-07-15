@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://buzina42.github.io/csb-wb6mi/static/css/main.61a5d57c.chunk.css",
-    "main.js": "https://buzina42.github.io/csb-wb6mi/static/js/main.682423df.chunk.js",
-    "main.js.map": "https://buzina42.github.io/csb-wb6mi/static/js/main.682423df.chunk.js.map",
+    "main.js": "https://buzina42.github.io/csb-wb6mi/static/js/main.f1b5624a.chunk.js",
+    "main.js.map": "https://buzina42.github.io/csb-wb6mi/static/js/main.f1b5624a.chunk.js.map",
     "runtime-main.js": "https://buzina42.github.io/csb-wb6mi/static/js/runtime-main.ce083daf.js",
     "runtime-main.js.map": "https://buzina42.github.io/csb-wb6mi/static/js/runtime-main.ce083daf.js.map",
     "static/js/2.d630a296.chunk.js": "https://buzina42.github.io/csb-wb6mi/static/js/2.d630a296.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ce083daf.js",
     "static/js/2.d630a296.chunk.js",
     "static/css/main.61a5d57c.chunk.css",
-    "static/js/main.682423df.chunk.js"
+    "static/js/main.f1b5624a.chunk.js"
   ]
 }
